@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Michael Salton
 
-- I am currently working as a software developer at Peavey Industries L.P.
+- I am a computer science student at Western Univeristy and currently working as a software developer at Peavey Industries L.P.
 - I am looking for 2023 internship oppurtunities
 
 <!--
