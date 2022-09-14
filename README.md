@@ -1,5 +1,8 @@
 ### Hello World 👋 I'm Michael Salton
 
+- I am currently working as a software developer at Peavey Industries L.P.
+- I am looking for 2023 internship oppurtunities
+
 <!--
 **michaelsalton/michaelsalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
