@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Michael Salton
 
-- I am a student at Western Univeristy studying computer science with a minor in game development
+- I am a student at Western Univeristy studying computer science with a minor in video game development
 - I am currently working as a software developer intern at Peavey Industries where I make Android apps :)
 - I am looking for 2023 internship oppurtunities
 
