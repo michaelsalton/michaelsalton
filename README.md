@@ -1,5 +1,7 @@
 ### Hello World 👋 I'm Michael Salton.
 
+I'm interested in graphics programming.
+
 <!--
 **michaelsalton/michaelsalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
