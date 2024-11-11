@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Michael Salton.
 
-Working in graphics programming.
+I'm interested in game development, computer graphics, and mobile.
 
 <!--
 **michaelsalton/michaelsalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
